@@ -3,8 +3,6 @@
 <!-- =================================================================== -->
 <!-- Clavier canadien francais pour Mac OS X (10.2 et plus)              -->
 <!-- Version ...: 0.9 (31 decembre 2004)                                 -->
-<!-- Auteur ....: Sebastien Guillemette (sebastieng@gmail.com)           -->
-<!-- Notes .....: Envoyez-moi vos commentaires / modifications / autres  --> 
 <!-- =================================================================== -->
 <keyboard group="0" id="5000" name="Canadien francais 0.9" maxout="1">
         <layouts>
