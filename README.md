@@ -2,8 +2,7 @@
 version 0.9
 
 # Introduction
-Le mérite revient à sebastieng pour avoir développé ce clavier canadien français pour Mac.
-Je voulais simplement ne pas perdre les fichiers d'installation.
+Clavier canadien français pour Mac.
 
 # Installation
 * Copiez les fichiers cf.icns et cf.keylayout dans le dossier /Library/Keyboard Layout
